@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="27px" height="31px" viewBox="0 0 27 31" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>UI/Elements/logo/small/white</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0 0.402436895 26.8204364 0.402436895 26.8204364 3.27261818 0 3.27261818"></polygon>
+    </defs>
+    <g id="UI/Elements/logo/small/white" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Asset-1">
+            <g id="Group-3" transform="translate(0.000000, 26.662418)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Clip-2"></g>
+                <path d="M-0.000109090909,3.27261818 C-0.000109090909,3.27261818 15.3102545,-0.483927273 26.6393455,2.16261818 L26.8204364,1.52989091 C26.8204364,1.52989091 16.9346182,-1.38938182 0.353890909,2.16698182 L-0.000109090909,3.27261818 Z" id="Fill-1" fill="#FFFFFF" mask="url(#mask-2)"></path>
+            </g>
+            <path d="M10.2028909,5.45454545e-05 L1.85798182,26.5713273 L7.98670909,26.5713273 L9.54452727,20.9253273 L17.3707091,20.9253273 L18.9634364,26.5713273 L25.1265273,26.5713273 L16.4358,5.45454545e-05 L10.2028909,5.45454545e-05 Z M13.3539818,5.83369091 L16.0201636,16.0713273 L10.8263455,16.0713273 L13.3539818,5.83369091 Z" id="Fill-4" fill="#FFFFFF"></path>
+        </g>
+    </g>
+</svg>
